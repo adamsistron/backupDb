@@ -1,0 +1,7 @@
+git remote add origin git@github.com:adamsistron/backupDb.git
+git add * (Todos los archivos)
+git add archivo.ext (Archivo especifico)
+git commit -m "Comentario para el archivo"
+git push -u origin master
+
+
